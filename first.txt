@@ -3,3 +3,4 @@ Gitの練習を始めます。
 ・git add
 ・git commit
 ・日本語対応
+・日本語対応できない
