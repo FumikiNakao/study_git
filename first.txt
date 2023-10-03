@@ -1,6 +1,9 @@
-Git�̗��K���n�߂܂��B
-��{�I�ȃ��[�N�t���[���w�т܂��B
-�Egit add
-�Egit commit
-�E���{��Ή�
-�E���{��Ή��ł��Ȃ�
+Gitの練習を始めます。
+基本的なワークフローを学びます。
+・git add
+・git commit
+・日本語対応
+・日本語対応できない
+・これで出来た？
+・文字化け
+・いい加減にしろ
