@@ -8,3 +8,4 @@ Gitの練習を始めます。
 ・文字化け
 ・いい加減にしろ
 ・git rm
+・git status
