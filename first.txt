@@ -9,3 +9,4 @@ Gitの練習を始めます。
 ・いい加減にしろ
 ・git rm
 ・git status
+・git diff
